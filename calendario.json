@@ -90,22 +90,22 @@
     {
       "slug": "012-tu-dominio-es-tuyo",
       "red": "instagram",
+      "fecha": null,
+      "estado": "listo",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada."
+    },
+    {
+      "slug": "009-que-necesita-tu-web",
+      "red": "instagram",
       "fecha": "2026-11-23T19:00",
       "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null,
-      "nota": "Primer video en estilo 3d. Aprobado y con 'sí' de Renato para hoy 19:00."
-    },
-    {
-      "slug": "009-que-necesita-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-25T12:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Sí de Renato el 23-11: miércoles 25-11 a las 12:00. Recordatorio en la sesión (trig_01FGYbTiXqxopSyNGfuFC3a7)."
+      "nota": "Versión Concepción (render 089532c). Renato pidió el 23-11 publicar uno de SEO/Google en el turno de las 19:00, en lugar del 012."
     },
     {
       "slug": "013-base-de-datos",
