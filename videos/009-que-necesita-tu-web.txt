@@ -1,0 +1,7 @@
+Un sitio web no es solo "el diseño". 🌐
+Necesita un dominio (tu dirección), un servidor (donde vive) y código: HTML, CSS, JavaScript y, detrás, un backend con su base de datos.
+Cuando todo eso funciona, recién empieza lo importante: que Google te encuentre. 👀
+
+¿Te gustaría saber qué es el SEO? Comenta "sí" y sigue a Siiot.
+
+#desarrolloweb #paginaweb #dominio #hosting #seo #pymeschile #emprendedoreschile
