@@ -32,19 +32,19 @@
       "publicado_en": null
     },
     {
-      "slug": "004-pide-menos-datos",
+      "slug": "005-tres-portadas",
       "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
+      "fecha": "2026-11-24T08:00",
+      "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null
     },
     {
-      "slug": "005-tres-portadas",
+      "slug": "004-pide-menos-datos",
       "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
+      "fecha": "2026-11-24T12:00",
+      "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null
@@ -52,8 +52,8 @@
     {
       "slug": "007-revisala-en-el-celular",
       "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
+      "fecha": "2026-11-24T17:00",
+      "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null
@@ -61,8 +61,8 @@
     {
       "slug": "008-se-nota-la-ia",
       "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
+      "fecha": "2026-11-24T20:00",
+      "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null
