@@ -1,0 +1,7 @@
+Aprietas "Reservar" y en un segundo trabajan tres capas. 🧩
+Frontend: lo que ves. Backend: el que revisa y decide. Base de datos: la memoria que guarda tu reserva.
+Una web linda sin backend es una vitrina: se mira, pero no atiende.
+
+¿Quieres que te cuente qué backend conviene para tu negocio? Comenta "backend" y sigue a Siiot.
+
+#desarrolloweb #backend #frontend #basededatos #programacion #pymeschile #emprendedoreschile
