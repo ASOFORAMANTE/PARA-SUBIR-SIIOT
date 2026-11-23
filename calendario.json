@@ -1,14 +1,71 @@
 {
   "zona_horaria": "America/Santiago",
   "cuenta": "@siiot_cl",
-  "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato.",
+  "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato. Instagram tarda 1-2 min en procesar un Reel: si la llamada se corta por tiempo, confirmar en la app antes de reintentar.",
   "publicaciones": [
-    { "slug": "003-no-apareces-en-el-mapa", "red": "instagram", "fecha": "2026-11-23T08:00", "estado": "programado", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "002-que-se-entienda", "red": "instagram", "fecha": "2026-11-23T12:00", "estado": "programado", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "006-menu-eterno", "red": "instagram", "fecha": "2026-11-23T17:00", "estado": "programado", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "004-pide-menos-datos", "red": "instagram", "fecha": null, "estado": "listo", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "005-tres-portadas", "red": "instagram", "fecha": null, "estado": "listo", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "007-revisala-en-el-celular", "red": "instagram", "fecha": null, "estado": "listo", "media_id": null, "link": null, "publicado_en": null },
-    { "slug": "008-se-nota-la-ia", "red": "instagram", "fecha": null, "estado": "listo", "media_id": null, "link": null, "publicado_en": null }
+    {
+      "slug": "003-no-apareces-en-el-mapa",
+      "red": "instagram",
+      "fecha": "2026-11-23T05:25",
+      "estado": "publicado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": "2026-11-23T05:25",
+      "nota": "Publicado como prueba antes de la hora programada (8:00); confirmado por Renato en la app. media_id no se obtuvo (la llamada se cortó por tiempo)."
+    },
+    {
+      "slug": "002-que-se-entienda",
+      "red": "instagram",
+      "fecha": "2026-11-23T12:00",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    },
+    {
+      "slug": "006-menu-eterno",
+      "red": "instagram",
+      "fecha": "2026-11-23T17:00",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    },
+    {
+      "slug": "004-pide-menos-datos",
+      "red": "instagram",
+      "fecha": null,
+      "estado": "listo",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    },
+    {
+      "slug": "005-tres-portadas",
+      "red": "instagram",
+      "fecha": null,
+      "estado": "listo",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    },
+    {
+      "slug": "007-revisala-en-el-celular",
+      "red": "instagram",
+      "fecha": null,
+      "estado": "listo",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    },
+    {
+      "slug": "008-se-nota-la-ia",
+      "red": "instagram",
+      "fecha": null,
+      "estado": "listo",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null
+    }
   ]
 }
