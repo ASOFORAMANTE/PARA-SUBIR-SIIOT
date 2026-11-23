@@ -35,11 +35,12 @@
     {
       "slug": "006-menu-eterno",
       "red": "instagram",
-      "fecha": "2026-11-23T17:00",
-      "estado": "programado",
+      "fecha": null,
+      "estado": "listo",
       "media_id": null,
       "link": null,
-      "publicado_en": null
+      "publicado_en": null,
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. Ojo: la versión antigua del 006 se envió a Instagram el 23-11 17:01; confirmar antes de publicar esta."
     },
     {
       "slug": "005-tres-portadas",
@@ -48,7 +49,8 @@
       "estado": "programado",
       "media_id": null,
       "link": null,
-      "publicado_en": null
+      "publicado_en": null,
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "004-pide-menos-datos",
@@ -57,7 +59,8 @@
       "estado": "programado",
       "media_id": null,
       "link": null,
-      "publicado_en": null
+      "publicado_en": null,
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "007-revisala-en-el-celular",
@@ -66,7 +69,8 @@
       "estado": "programado",
       "media_id": null,
       "link": null,
-      "publicado_en": null
+      "publicado_en": null,
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "008-se-nota-la-ia",
@@ -75,17 +79,18 @@
       "estado": "programado",
       "media_id": null,
       "link": null,
-      "publicado_en": null
+      "publicado_en": null,
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "011-que-pasa-al-reservar",
       "red": "instagram",
-      "fecha": "2026-11-25T08:00",
-      "estado": "programado",
+      "fecha": null,
+      "estado": "listo",
       "media_id": null,
       "link": null,
       "publicado_en": null,
-      "nota": "Sí de Renato el 23-11: miércoles 25-11 a las 8:00. Recordatorio en la sesión (trig_01HmZ3u7WTRCMWbF5SeGcaoA)."
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "012-tu-dominio-es-tuyo",
@@ -100,22 +105,22 @@
     {
       "slug": "009-que-necesita-tu-web",
       "red": "instagram",
-      "fecha": "2026-11-23T19:00",
+      "fecha": "2026-11-23T20:05",
       "estado": "programado",
       "media_id": null,
       "link": null,
       "publicado_en": null,
-      "nota": "Versión Concepción (render 089532c). Renato pidió el 23-11 publicar uno de SEO/Google en el turno de las 19:00, en lugar del 012."
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "013-base-de-datos",
       "red": "instagram",
-      "fecha": "2026-11-25T17:00",
-      "estado": "programado",
+      "fecha": null,
+      "estado": "listo",
       "media_id": null,
       "link": null,
       "publicado_en": null,
-      "nota": "Aprobado y con 'sí' de Renato el 23-11: miércoles 25-11 a las 17:00. Recordatorio en la sesión (trig_01VrnKPWFnuzVwXHbbpmbevr)."
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
     },
     {
       "slug": "014-la-gente-le-compra-a-gente",

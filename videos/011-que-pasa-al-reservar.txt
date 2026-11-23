@@ -1,7 +1,7 @@
-Aprietas "Reservar" y en un segundo trabajan tres capas. 🧩
-Frontend: lo que ves. Backend: el que revisa y decide. Base de datos: la memoria que guarda tu reserva.
+Tu cliente aprieta "Reservar" y en un segundo trabajan tres capas. 🧩
+Frontend: lo que ve. Backend: el que revisa y decide. Base de datos: la memoria que guarda la reserva.
 Una web linda sin backend es una vitrina: se mira, pero no atiende.
 
-¿Quieres que te cuente qué backend conviene para tu negocio? Comenta "backend" y sigue a Siiot.
+Hago webs con reservas y agenda online para negocios de toda Latinoamérica. Comenta "backend" y te cuento cuál conviene para el tuyo.
 
-#desarrolloweb #backend #frontend #basededatos #programacion #pymeschile #emprendedoreschile
+#desarrolloweb #backend #reservasonline #emprendedores #pymes #latinoamerica #chile #mexico #argentina
