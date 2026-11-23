@@ -120,12 +120,12 @@
     {
       "slug": "014-la-gente-le-compra-a-gente",
       "red": "instagram",
-      "fecha": "2026-11-23T16:00",
-      "estado": "programado",
-      "media_id": null,
+      "fecha": "2026-11-23T14:03",
+      "estado": "publicado",
+      "media_id": "17922078477456192",
       "link": null,
-      "publicado_en": null,
-      "nota": "Estilo cine (3D, fuego, destrucción). Aprobado por Renato: 'sí, súbelo hoy a las 16:00'."
+      "publicado_en": "2026-11-23T14:03",
+      "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya."
     }
   ]
 }
