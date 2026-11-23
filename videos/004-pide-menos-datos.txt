@@ -1,0 +1,11 @@
+Nombre, apellido, RUT, comuna, empresa, cargo, cómo nos conociste… y el cliente cerró la pestaña. 🙃
+
+Cada campo extra en tu formulario es una excusa para irse. Casi 1 de cada 5 personas que abandonan una compra online lo hace porque el proceso era largo o enredado (Baymard Institute).
+
+✅ Pide solo lo justo para responder: nombre y un WhatsApp o correo
+✅ Un solo botón de enviar
+✅ Dile qué pasa después: "te respondemos hoy"
+
+¿Cuántos campos tiene el formulario de tu web? Sé honesto 👇
+
+#diseñoweb #formularios #ux #conversion #paginaweb #pymeschile #emprendedoreschile
