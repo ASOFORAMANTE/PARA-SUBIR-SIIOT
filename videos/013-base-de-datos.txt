@@ -1,0 +1,7 @@
+Cada reserva, venta o cliente de tu web termina en una base de datos. 🗄️
+Tablas con reglas, relaciones para no repetir datos y SQL para preguntarle lo que necesites.
+Y al configurarla: buen motor, usuario con clave segura, conexión por variable de entorno y respaldos automáticos.
+
+¿Tu web tiene respaldos? Comenta "base" y sigue a Siiot.
+
+#basededatos #desarrolloweb #sql #postgresql #backend #programacion #pymeschile
