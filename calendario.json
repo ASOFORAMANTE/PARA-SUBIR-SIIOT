@@ -131,6 +131,26 @@
       "link": null,
       "publicado_en": "2026-11-23T14:03",
       "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya."
+    },
+    {
+      "slug": "016-hecha-con-ia-sin-seo",
+      "red": "instagram",
+      "fecha": "2026-11-24T03:45",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora."
+    },
+    {
+      "slug": "017-cuanto-has-gastado",
+      "red": "instagram",
+      "fecha": "2026-11-25T09:00",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00."
     }
   ]
 }
