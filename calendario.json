@@ -45,32 +45,32 @@
   {
    "slug": "005-tres-portadas",
    "red": "instagram",
-   "fecha": "2026-11-24T08:00",
+   "fecha": "2026-11-24T07:00",
    "estado": "programado",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video."
+   "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "004-pide-menos-datos",
    "red": "instagram",
-   "fecha": "2026-11-24T12:00",
+   "fecha": "2026-11-24T08:30",
    "estado": "programado",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video)."
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "007-revisala-en-el-celular",
    "red": "instagram",
-   "fecha": "2026-11-24T17:00",
+   "fecha": "2026-11-24T11:00",
    "estado": "programado",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video)."
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "008-se-nota-la-ia",
@@ -80,7 +80,7 @@
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video)."
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "011-que-pasa-al-reservar",
@@ -90,17 +90,17 @@
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11."
+   "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "012-tu-dominio-es-tuyo",
    "red": "instagram",
-   "fecha": null,
-   "estado": "listo",
+   "fecha": "2026-11-24T17:00",
+   "estado": "programado",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video)."
+   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   },
   {
    "slug": "009-que-necesita-tu-web",
@@ -145,12 +145,22 @@
   {
    "slug": "017-cuanto-has-gastado",
    "red": "instagram",
-   "fecha": "2026-11-25T09:00",
+   "fecha": "2026-11-24T13:00",
    "estado": "programado",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video)."
+   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "019-escribe-como-busca",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo cómic (prueba). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
   }
  ]
 }
