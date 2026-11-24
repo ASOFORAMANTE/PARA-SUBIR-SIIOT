@@ -190,6 +190,56 @@
    "link": "https://www.instagram.com/reel/DgIRlxPAC3i/",
    "publicado_en": "2026-11-24T12:27",
    "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50. | La llamada a Windsor se cortó por tiempo (60 s); sin reintento. Confirmado con get_data: un solo post. | 24-11 15:05 (revisión de todo Instagram vía Windsor): Instagram lo muestra a las 12:27 (no 08:52): la llamada cortada se procesó tarde. Un solo post."
+  },
+  {
+   "slug": "020-la-web-invisible",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:30",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min."
+  },
+  {
+   "slug": "021-el-plano-de-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:40",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min."
+  },
+  {
+   "slug": "022-cartel-de-no-pasar",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:50",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min."
+  },
+  {
+   "slug": "023-search-que",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
+  },
+  {
+   "slug": "024-asi-te-ve-google",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
   }
  ]
 }
