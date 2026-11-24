@@ -66,11 +66,11 @@
       "slug": "007-revisala-en-el-celular",
       "red": "instagram",
       "fecha": "2026-11-24T11:00",
-      "estado": "programado",
-      "media_id": null,
+      "estado": "publicado",
+      "media_id": "18017996474968980",
       "link": null,
-      "publicado_en": null,
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+      "publicado_en": "2026-11-24T12:27",
+      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | La llamada a Windsor se cortó por tiempo, pero Instagram lo publicó (confirmado por la API)."
     },
     {
       "slug": "008-se-nota-la-ia",
