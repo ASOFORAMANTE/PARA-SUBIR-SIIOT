@@ -96,12 +96,12 @@
   {
    "slug": "012-tu-dominio-es-tuyo",
    "red": "instagram",
-   "fecha": "2026-11-24T17:00",
+   "fecha": null,
    "estado": "listo",
    "media_id": null,
    "link": null,
    "publicado_en": null,
-   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno."
+   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno. | 24-11 tarde: reemplazado por versión estilo superhéroes, aprobada por Renato (\"súper buenos, déjalos en la carpeta para subir\"). Sin fecha."
   },
   {
    "slug": "009-que-necesita-tu-web",
@@ -240,6 +240,26 @@
    "link": null,
    "publicado_en": null,
    "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
+  },
+  {
+   "slug": "004-pide-menos-datos-heroe",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión estilo superhéroes del 004 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 004 publicado, dejar unos días de distancia."
+  },
+  {
+   "slug": "017-cuanto-has-gastado-heroe",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión estilo superhéroes del 017 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 017 publicado, dejar unos días de distancia."
   }
  ]
 }
