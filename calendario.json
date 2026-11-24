@@ -1,186 +1,186 @@
 {
-  "zona_horaria": "America/Santiago",
-  "cuenta": "@siiot_cl",
-  "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato. Instagram tarda 1-2 min en procesar un Reel: si la llamada se corta por tiempo, confirmar en la app antes de reintentar.",
-  "publicaciones": [
-    {
-      "slug": "003-no-apareces-en-el-mapa",
-      "red": "instagram",
-      "fecha": "2026-11-23T05:25",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-23T05:25",
-      "nota": "Publicado como prueba antes de la hora programada (8:00); confirmado por Renato en la app. media_id no se obtuvo (la llamada se cortó por tiempo)."
-    },
-    {
-      "slug": "010-web-implantologo",
-      "red": "instagram",
-      "fecha": "2026-11-23T09:15",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-23T09:17",
-      "nota": "Publicado 09:17, confirmado por Renato en la app. Dr. Figueroa de acuerdo (confirmado por Renato). Render desde rama claude/intelligent-johnson-d63dwx (bd8b139)."
-    },
-    {
-      "slug": "002-que-se-entienda",
-      "red": "instagram",
-      "fecha": "2026-11-23T12:00",
-      "estado": "publicado",
-      "media_id": "18190221115414809",
-      "link": null,
-      "publicado_en": "2026-11-23T12:01"
-    },
-    {
-      "slug": "006-menu-eterno",
-      "red": "instagram",
-      "fecha": "2026-11-23T17:00",
-      "estado": "publicado",
-      "media_id": "17915516304568792",
-      "link": null,
-      "publicado_en": "2026-11-24T05:55",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. Ojo: la versión antigua del 006 se envió a Instagram el 23-11 17:01; confirmar antes de publicar esta. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 05:55: la versión estudio v2 se publicó con media_id 17915516304568792 (el recordatorio de las 17:00 del 23-11 se ejecutó tarde tras un reinicio). Probable DUPLICADO: la versión antigua se habría enviado el 23-11 17:01 (media_id desconocido). Renato debe revisar la app y decidir cuál borrar. | 24-11 08:56: Renato revisa el posible duplicado en la app y borra la versión antigua si aparece."
-    },
-    {
-      "slug": "005-tres-portadas",
-      "red": "instagram",
-      "fecha": "2026-11-24T07:00",
-      "estado": "publicado",
-      "media_id": "18105018605376999",
-      "link": null,
-      "publicado_en": "2026-11-24T08:22",
-      "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
-    },
-    {
-      "slug": "004-pide-menos-datos",
-      "red": "instagram",
-      "fecha": "2026-11-24T08:30",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
-    },
-    {
-      "slug": "007-revisala-en-el-celular",
-      "red": "instagram",
-      "fecha": "2026-11-24T11:00",
-      "estado": "publicado",
-      "media_id": "18017996474968980",
-      "link": null,
-      "publicado_en": "2026-11-24T12:27",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | La llamada a Windsor se cortó por tiempo, pero Instagram lo publicó (confirmado por la API)."
-    },
-    {
-      "slug": "008-se-nota-la-ia",
-      "red": "instagram",
-      "fecha": "2026-11-26T20:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: Renato lo movió al 26-11 20:00 para no juntar tres videos de IA (016, 018, 008) en 24 h. Recordatorio trig_01FcePDoBPCKGCnHmcShcNvx."
-    },
-    {
-      "slug": "011-que-pasa-al-reservar",
-      "red": "instagram",
-      "fecha": "2026-11-24T06:00",
-      "estado": "publicado",
-      "media_id": "18351284779255842",
-      "link": null,
-      "publicado_en": "2026-11-24T06:00",
-      "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
-    },
-    {
-      "slug": "012-tu-dominio-es-tuyo",
-      "red": "instagram",
-      "fecha": "2026-11-24T17:00",
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno."
-    },
-    {
-      "slug": "009-que-necesita-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-23T20:58",
-      "estado": "publicado",
-      "media_id": "18137872546747016",
-      "link": null,
-      "publicado_en": "2026-11-23T20:58",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
-    },
-    {
-      "slug": "013-base-de-datos",
-      "red": "instagram",
-      "fecha": "2026-11-26T12:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 08:56: hora fijada por Renato, 26-11 12:00. Recordatorio trig_01S9c5Cb9zBuf5J6DmSKuTTq."
-    },
-    {
-      "slug": "014-la-gente-le-compra-a-gente",
-      "red": "instagram",
-      "fecha": "2026-11-23T14:03",
-      "estado": "publicado",
-      "media_id": "17922078477456192",
-      "link": null,
-      "publicado_en": "2026-11-23T14:03",
-      "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya."
-    },
-    {
-      "slug": "016-hecha-con-ia-sin-seo",
-      "red": "instagram",
-      "fecha": "2026-11-24T03:50",
-      "estado": "publicado",
-      "media_id": "18060249704596520",
-      "link": null,
-      "publicado_en": "2026-11-24T03:50",
-      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora."
-    },
-    {
-      "slug": "017-cuanto-has-gastado",
-      "red": "instagram",
-      "fecha": "2026-11-24T13:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
-    },
-    {
-      "slug": "019-escribe-como-busca",
-      "red": "instagram",
-      "fecha": "2026-11-24T15:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Estilo cómic (prueba). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
-    },
-    {
-      "slug": "015-pagina-2-de-google",
-      "red": "instagram",
-      "fecha": "2026-11-26T17:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Aprobado por Renato el 24-11 para subir después; falta que dé la hora. | 24-11 08:56: hora fijada por Renato, 26-11 17:00. Recordatorio trig_01LdNMLSUytZLRTER6P66wsE."
-    },
-    {
-      "slug": "018-la-ia-no-es-el-villano",
-      "red": "instagram",
-      "fecha": "2026-11-24T08:50",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50."
-    }
-  ]
+ "zona_horaria": "America/Santiago",
+ "cuenta": "@siiot_cl",
+ "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato. Instagram tarda 1-2 min en procesar un Reel: si la llamada se corta por tiempo, confirmar en la app antes de reintentar.",
+ "publicaciones": [
+  {
+   "slug": "003-no-apareces-en-el-mapa",
+   "red": "instagram",
+   "fecha": "2026-11-23T05:25",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-23T05:25",
+   "nota": "Publicado como prueba antes de la hora programada (8:00); confirmado por Renato en la app. media_id no se obtuvo (la llamada se cortó por tiempo)."
+  },
+  {
+   "slug": "010-web-implantologo",
+   "red": "instagram",
+   "fecha": "2026-11-23T09:15",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-23T09:17",
+   "nota": "Publicado 09:17, confirmado por Renato en la app. Dr. Figueroa de acuerdo (confirmado por Renato). Render desde rama claude/intelligent-johnson-d63dwx (bd8b139)."
+  },
+  {
+   "slug": "002-que-se-entienda",
+   "red": "instagram",
+   "fecha": "2026-11-23T12:00",
+   "estado": "publicado",
+   "media_id": "18190221115414809",
+   "link": null,
+   "publicado_en": "2026-11-23T12:01"
+  },
+  {
+   "slug": "006-menu-eterno",
+   "red": "instagram",
+   "fecha": "2026-11-23T17:00",
+   "estado": "publicado",
+   "media_id": "17915516304568792",
+   "link": null,
+   "publicado_en": "2026-11-24T05:55",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. Ojo: la versión antigua del 006 se envió a Instagram el 23-11 17:01; confirmar antes de publicar esta. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 05:55: la versión estudio v2 se publicó con media_id 17915516304568792 (el recordatorio de las 17:00 del 23-11 se ejecutó tarde tras un reinicio). Probable DUPLICADO: la versión antigua se habría enviado el 23-11 17:01 (media_id desconocido). Renato debe revisar la app y decidir cuál borrar. | 24-11 08:56: Renato revisa el posible duplicado en la app y borra la versión antigua si aparece."
+  },
+  {
+   "slug": "005-tres-portadas",
+   "red": "instagram",
+   "fecha": "2026-11-24T07:00",
+   "estado": "publicado",
+   "media_id": "18105018605376999",
+   "link": null,
+   "publicado_en": "2026-11-24T08:22",
+   "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "004-pide-menos-datos",
+   "red": "instagram",
+   "fecha": "2026-11-24T08:30",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "007-revisala-en-el-celular",
+   "red": "instagram",
+   "fecha": "2026-11-24T11:00",
+   "estado": "publicado",
+   "media_id": "18017996474968980",
+   "link": null,
+   "publicado_en": "2026-11-24T12:27",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | La llamada a Windsor se cortó por tiempo, pero Instagram lo publicó (confirmado por la API)."
+  },
+  {
+   "slug": "008-se-nota-la-ia",
+   "red": "instagram",
+   "fecha": "2026-11-26T20:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: Renato lo movió al 26-11 20:00 para no juntar tres videos de IA (016, 018, 008) en 24 h. Recordatorio trig_01FcePDoBPCKGCnHmcShcNvx."
+  },
+  {
+   "slug": "011-que-pasa-al-reservar",
+   "red": "instagram",
+   "fecha": "2026-11-24T06:00",
+   "estado": "publicado",
+   "media_id": "18351284779255842",
+   "link": null,
+   "publicado_en": "2026-11-24T06:00",
+   "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "012-tu-dominio-es-tuyo",
+   "red": "instagram",
+   "fecha": "2026-11-24T17:00",
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno."
+  },
+  {
+   "slug": "009-que-necesita-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-23T20:58",
+   "estado": "publicado",
+   "media_id": "18137872546747016",
+   "link": null,
+   "publicado_en": "2026-11-23T20:58",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11."
+  },
+  {
+   "slug": "013-base-de-datos",
+   "red": "instagram",
+   "fecha": "2026-11-26T12:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 08:56: hora fijada por Renato, 26-11 12:00. Recordatorio trig_01S9c5Cb9zBuf5J6DmSKuTTq."
+  },
+  {
+   "slug": "014-la-gente-le-compra-a-gente",
+   "red": "instagram",
+   "fecha": "2026-11-23T14:03",
+   "estado": "publicado",
+   "media_id": "17922078477456192",
+   "link": null,
+   "publicado_en": "2026-11-23T14:03",
+   "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya."
+  },
+  {
+   "slug": "016-hecha-con-ia-sin-seo",
+   "red": "instagram",
+   "fecha": "2026-11-24T03:50",
+   "estado": "publicado",
+   "media_id": "18060249704596520",
+   "link": null,
+   "publicado_en": "2026-11-24T03:50",
+   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora."
+  },
+  {
+   "slug": "017-cuanto-has-gastado",
+   "red": "instagram",
+   "fecha": "2026-11-24T13:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "019-escribe-como-busca",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo cómic (prueba). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez)."
+  },
+  {
+   "slug": "015-pagina-2-de-google",
+   "red": "instagram",
+   "fecha": "2026-11-26T17:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Aprobado por Renato el 24-11 para subir después; falta que dé la hora. | 24-11 08:56: hora fijada por Renato, 26-11 17:00. Recordatorio trig_01LdNMLSUytZLRTER6P66wsE."
+  },
+  {
+   "slug": "018-la-ia-no-es-el-villano",
+   "red": "instagram",
+   "fecha": "2026-11-24T08:50",
+   "estado": "publicado",
+   "media_id": "17961341466268096",
+   "link": "https://www.instagram.com/reel/DgIRlxPAC3i/",
+   "publicado_en": "2026-11-24T08:52",
+   "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50. | La llamada a Windsor se cortó por tiempo (60 s); sin reintento. Confirmado con get_data: un solo post."
+  }
+ ]
 }
