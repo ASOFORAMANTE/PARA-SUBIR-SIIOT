@@ -1,0 +1,9 @@
+Google llega a tu web todos los días… y se devuelve. 🔁
+
+A veces la web tiene un cartel invisible que dice "no me muestres" (noindex). Se pone mientras se construye la web y nadie lo saca.
+
+En WordPress es una casilla en Ajustes › Lectura: "Disuadir a los motores de búsqueda de indexar este sitio". Si está marcada, no apareces. Sácala y el ciclo cambia.
+
+¿Revisaste tu cartel? Comenta CARTEL y te digo cómo verlo.
+
+#seo #wordpress #paginaweb #google #emprendedoreschile #aprendeentiktok

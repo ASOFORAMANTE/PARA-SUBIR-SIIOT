@@ -1,0 +1,9 @@
+Tu web tiene ocho páginas… y Google conoce una sola. 📐
+
+Google recorre tu web como un visitante: entra por la puerta y avanza por los enlaces. Una página sin enlaces es una pieza sin puerta: nunca entra.
+
+Para eso está el sitemap: el plano de tu web, con la lista de todas las piezas. Se entrega en Search Console. No te pone primero, pero Google sabe que existen.
+
+¿Tu web tiene plano? Escribe tudominio.cl/sitemap.xml y cuéntame qué te salió.
+
+#seo #sitemap #paginaweb #googlesearchconsole #emprendedoreschile #aprendeentiktok

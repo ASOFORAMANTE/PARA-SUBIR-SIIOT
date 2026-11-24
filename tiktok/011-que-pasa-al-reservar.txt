@@ -1,0 +1,11 @@
+Tu cliente aprieta "Reservar"… ¿y qué pasa por dentro? 🍽️
+Tu web funciona como un restaurante:
+• Frontend: el salón, lo que ves y tocas.
+• Backend: la cocina, recibe el pedido y revisa si hay hora.
+• Base de datos: la libreta que lo anota para que no se pierda.
+
+Una web linda sin backend es una vitrina: se mira, pero no atiende.
+
+Hago webs con reservas para negocios de Chile y Latinoamérica. Comenta "COCINA" y te digo qué le falta a la tuya. 👇
+
+#desarrolloweb #programacion #frontend #backend #emprendedoreschile #aprendeentiktok
