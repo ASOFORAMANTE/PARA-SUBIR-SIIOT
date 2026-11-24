@@ -135,11 +135,11 @@
     {
       "slug": "016-hecha-con-ia-sin-seo",
       "red": "instagram",
-      "fecha": "2026-11-24T03:45",
-      "estado": "programado",
-      "media_id": null,
+      "fecha": "2026-11-24T03:50",
+      "estado": "publicado",
+      "media_id": "18060249704596520",
       "link": null,
-      "publicado_en": null,
+      "publicado_en": "2026-11-24T03:50",
       "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora."
     },
     {
@@ -150,7 +150,7 @@
       "media_id": null,
       "link": null,
       "publicado_en": null,
-      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00."
+      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb)."
     }
   ]
 }
