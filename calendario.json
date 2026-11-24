@@ -171,6 +171,16 @@
    "link": null,
    "publicado_en": null,
    "nota": "Aprobado por Renato el 24-11 para subir después; falta que dé la hora."
+  },
+  {
+   "slug": "018-la-ia-no-es-el-villano",
+   "red": "instagram",
+   "fecha": "2026-11-24T08:50",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50."
   }
  ]
 }
