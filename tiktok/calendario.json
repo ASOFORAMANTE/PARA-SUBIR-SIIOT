@@ -1,182 +1,182 @@
 {
  "zona": "America/Santiago",
  "cuenta": "@siiot_",
- "nota": "TikTok: Renato sube y programa en TikTok Studio (sin API de publicación). estado: por subir | programado | publicado. Lo que funcione aquí pasa a Instagram con su 'sí'.",
+ "nota": "TikTok se publica con Metricool (autoPublish). estado: programado | publicado. Antes de programar, revisar este archivo y getScheduledPosts para no repetir. Lo que funcione aquí pasa a Instagram con el 'sí' de Renato.",
  "publicaciones": [
   {
-   "slug": "018-la-ia-no-es-el-villano",
-   "fecha": "2026-11-25T09:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
    "slug": "003-no-apareces-en-el-mapa",
-   "fecha": "2026-11-25T13:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "014-la-gente-le-compra-a-gente",
-   "fecha": "2026-11-25T18:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "020-la-web-invisible",
-   "fecha": "2026-11-25T21:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "017-cuanto-has-gastado",
-   "fecha": "2026-11-26T09:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "011-que-pasa-al-reservar",
-   "fecha": "2026-11-26T13:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "006-menu-eterno",
-   "fecha": "2026-11-26T18:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "019-escribe-como-busca",
-   "fecha": "2026-11-26T21:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "016-hecha-con-ia-sin-seo",
-   "fecha": "2026-11-27T09:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "005-tres-portadas",
-   "fecha": "2026-11-27T13:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "012-tu-dominio-es-tuyo",
-   "fecha": "2026-11-27T18:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "021-el-plano-de-tu-web",
-   "fecha": "2026-11-27T21:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
+   "fecha": "2026-11-24T16:30",
+   "estado": "publicado",
+   "video_id": "7711822772909164550",
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "010-web-implantologo",
-   "fecha": "2026-11-28T09:00",
-   "estado": "por subir",
+   "fecha": "2026-11-24T16:45",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "007-revisala-en-el-celular",
-   "fecha": "2026-11-28T13:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "008-se-nota-la-ia",
-   "fecha": "2026-11-28T18:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "022-cartel-de-no-pasar",
-   "fecha": "2026-11-28T21:30",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "004-pide-menos-datos",
-   "fecha": "2026-11-29T09:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
-  },
-  {
-   "slug": "009-que-necesita-tu-web",
-   "fecha": "2026-11-29T13:00",
-   "estado": "por subir",
-   "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "002-que-se-entienda",
-   "fecha": "2026-11-29T18:30",
-   "estado": "por subir",
+   "fecha": "2026-11-24T17:00",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   },
   {
-   "slug": "023-search-que",
-   "fecha": "2026-11-29T21:30",
-   "estado": "por subir",
+   "slug": "014-la-gente-le-compra-a-gente",
+   "fecha": "2026-11-24T17:15",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   },
   {
-   "slug": "013-base-de-datos",
-   "fecha": "2026-11-30T09:00",
-   "estado": "por subir",
+   "slug": "009-que-necesita-tu-web",
+   "fecha": "2026-11-24T17:30",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "016-hecha-con-ia-sin-seo",
+   "fecha": "2026-11-24T17:45",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "006-menu-eterno",
+   "fecha": "2026-11-24T18:00",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "011-que-pasa-al-reservar",
+   "fecha": "2026-11-24T18:15",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "005-tres-portadas",
+   "fecha": "2026-11-24T18:30",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "018-la-ia-no-es-el-villano",
+   "fecha": "2026-11-24T18:45",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "007-revisala-en-el-celular",
+   "fecha": "2026-11-24T19:00",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "017-cuanto-has-gastado",
+   "fecha": "2026-11-24T19:15",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "019-escribe-como-busca",
+   "fecha": "2026-11-24T19:30",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "004-pide-menos-datos",
+   "fecha": "2026-11-24T19:45",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "015-pagina-2-de-google",
-   "fecha": "2026-11-30T13:00",
-   "estado": "por subir",
+   "fecha": "2026-11-24T20:00",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "008-se-nota-la-ia",
+   "fecha": "2026-11-24T20:15",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "020-la-web-invisible",
+   "fecha": "2026-11-24T20:30",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "012-tu-dominio-es-tuyo",
+   "fecha": "2026-11-24T20:45",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "021-el-plano-de-tu-web",
+   "fecha": "2026-11-24T21:00",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "013-base-de-datos",
+   "fecha": "2026-11-24T21:15",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "022-cartel-de-no-pasar",
+   "fecha": "2026-11-24T21:30",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
+  },
+  {
+   "slug": "023-search-que",
+   "fecha": "2026-11-24T21:45",
+   "estado": "programado",
+   "video_id": null,
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "024-asi-te-ve-google",
-   "fecha": "2026-11-30T18:30",
-   "estado": "por subir",
+   "fecha": "2026-11-24T22:00",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "017-cuanto-has-gastado-heroe",
-   "fecha": "2026-11-30T21:30",
-   "estado": "por subir",
+   "fecha": "2026-11-25T09:00",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   },
   {
    "slug": "004-pide-menos-datos-heroe",
-   "fecha": "2026-12-01T09:00",
-   "estado": "por subir",
+   "fecha": "2026-11-25T13:00",
+   "estado": "programado",
    "video_id": null,
-   "nota": ""
+   "via": "Metricool (brand 8342207)"
   }
  ]
 }
