@@ -1,0 +1,9 @@
+Tu web en internet son tres pasos. 💻
+
+1. El código: HTML, CSS y JavaScript (al principio solo vive en tu computador).
+2. El dominio apuntando a un servidor, y el código arriba de ese servidor.
+3. Optimizar: imágenes livianas, carga rápida, que se vea bien en el celular y que Google la entienda.
+
+El tercero es el que casi todos se saltan. ¿En qué paso está la tuya? Comenta el número.
+
+#desarrolloweb #paginaweb #diseñoweb #seo #dominio #hosting #emprendimiento

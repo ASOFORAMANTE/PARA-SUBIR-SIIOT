@@ -260,6 +260,16 @@
    "link": null,
    "publicado_en": null,
    "nota": "Versión estilo superhéroes del 017 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 017 publicado, dejar unos días de distancia."
+  },
+  {
+   "slug": "029-tres-pasos-para-tu-web",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo matrix (motor nuevo). Aprobado por Renato el 25-11 (\"buenísimo\"). Sin hora todavía. Ojo: tema cercano al 009 publicado (dominio, servidor, código)."
   }
  ]
 }
