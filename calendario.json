@@ -270,6 +270,16 @@
    "link": null,
    "publicado_en": null,
    "nota": "Estilo matrix (motor nuevo). Aprobado por Renato el 25-11 (\"buenísimo\"). Sin hora todavía. Ojo: tema cercano al 009 publicado (dominio, servidor, código)."
+  },
+  {
+   "slug": "030-asi-hago-una-web",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía."
   }
  ]
 }

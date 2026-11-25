@@ -1,0 +1,12 @@
+¿Quieres vender una web a mil dólares? Así es como lo hago yo. 💸
+
+1. Junto referencias: sitios que admiro de cualquier parte del mundo y reseñas reales de clientes.
+2. En Claude Code le pido que revise esas referencias y las analice.
+3. Le prohíbo todo lo que huela a IA: títulos sobre títulos, la letra de siempre, recuadros, todo recto, numeración en todo.
+4. Le sumo la skill de diseño de Emil Kowalski (emil-design-eng).
+5. Lo esencial: que planifique y me pregunte antes de escribir código. Al azar pierdes tiempo, tokens y dinero.
+6. Opus 5.5, pero no siempre al máximo esfuerzo.
+
+Esto es solo la parte que se ve. ¿Quieres la parte 2: que guarde datos, derive a teléfonos y correos y que Google la indexe? Pídemela en los comentarios.
+
+#desarrolloweb #claudecode #inteligenciaartificial #diseñoweb #paginaweb #ia #emprendimiento
