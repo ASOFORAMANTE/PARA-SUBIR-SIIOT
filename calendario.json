@@ -275,11 +275,11 @@
       "slug": "030-asi-hago-una-web",
       "red": "instagram",
       "fecha": "2026-11-25T08:00",
-      "estado": "programado",
-      "media_id": null,
+      "estado": "publicado",
+      "media_id": "17931931860428404",
       "link": null,
-      "publicado_en": null,
-      "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía. | Programado por Renato el 25-11 00:52 para las 08:00 (recordatorio trig_01Nyh8DxvCdrs5hpvQMiBjhf)."
+      "publicado_en": "2026-11-25T09:17",
+      "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía. | Programado por Renato el 25-11 00:52 para las 08:00 (recordatorio trig_01Nyh8DxvCdrs5hpvQMiBjhf). | Publicado 09:17 (la llamada se cortó por tiempo; confirmado por la API)."
     }
   ]
 }
