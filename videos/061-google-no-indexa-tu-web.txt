@@ -1,0 +1,5 @@
+Si Google no indexa tu web, casi siempre es por un noindex olvidado, falta de sitemap, páginas sin enlaces o texto copiado.
+
+¿Revisaste la tuya en Search Console?
+
+#seo #searchconsole #indexacion #google
