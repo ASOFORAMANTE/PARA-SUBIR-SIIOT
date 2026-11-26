@@ -1,0 +1,5 @@
+Un commit es una foto de tu web en un momento. El mensaje importa: "cambios" no dice nada.
+
+¿Cuál es el peor mensaje de commit que has escrito?
+
+#git #programacion #desarrolloweb #aprendeaprogramar
