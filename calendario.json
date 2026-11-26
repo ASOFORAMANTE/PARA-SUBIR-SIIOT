@@ -280,6 +280,256 @@
       "link": null,
       "publicado_en": "2026-11-25T09:17",
       "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía. | Programado por Renato el 25-11 00:52 para las 08:00 (recordatorio trig_01Nyh8DxvCdrs5hpvQMiBjhf). | Publicado 09:17 (la llamada se cortó por tiempo; confirmado por la API)."
+    },
+    {
+      "slug": "045-nadie-sabe-que-existes",
+      "red": "instagram",
+      "fecha": "2026-11-26T09:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "040-que-es-github",
+      "red": "instagram",
+      "fecha": "2026-11-26T10:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "050-paleta-de-colores",
+      "red": "instagram",
+      "fecha": "2026-11-26T11:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "055-la-guia-correcta",
+      "red": "instagram",
+      "fecha": "2026-11-26T12:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "060-que-es-el-seo",
+      "red": "instagram",
+      "fecha": "2026-11-26T13:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "046-alguien-se-lleva-tu-dinero",
+      "red": "instagram",
+      "fecha": "2026-11-26T14:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "041-que-es-un-repositorio",
+      "red": "instagram",
+      "fecha": "2026-11-26T15:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "051-la-letra-te-delata",
+      "red": "instagram",
+      "fecha": "2026-11-26T16:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "056-tres-errores-con-claude",
+      "red": "instagram",
+      "fecha": "2026-11-26T17:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "061-google-no-indexa-tu-web",
+      "red": "instagram",
+      "fecha": "2026-11-26T18:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "047-clientes-de-noche",
+      "red": "instagram",
+      "fecha": "2026-11-26T19:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "042-que-es-un-commit",
+      "red": "instagram",
+      "fecha": "2026-11-26T20:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "052-deja-respirar-tu-web",
+      "red": "instagram",
+      "fecha": "2026-11-26T21:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "057-antes-de-abrir-claude",
+      "red": "instagram",
+      "fecha": "2026-11-26T22:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "062-cada-segundo-te-cuesta",
+      "red": "instagram",
+      "fecha": "2026-11-26T23:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "048-pierdes-tus-resenas",
+      "red": "instagram",
+      "fecha": "2026-11-27T00:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "043-que-es-un-deploy",
+      "red": "instagram",
+      "fecha": "2026-11-27T01:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "053-un-boton-principal",
+      "red": "instagram",
+      "fecha": "2026-11-27T02:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "058-parte-2-que-trabaje",
+      "red": "instagram",
+      "fecha": "2026-11-27T03:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "063-una-pagina-por-servicio",
+      "red": "instagram",
+      "fecha": "2026-11-27T04:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "049-seguidores-no-son-clientes",
+      "red": "instagram",
+      "fecha": "2026-11-27T05:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "044-hostinger-o-wordpress",
+      "red": "instagram",
+      "fecha": "2026-11-27T06:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "054-tu-texto-no-se-lee",
+      "red": "instagram",
+      "fecha": "2026-11-27T07:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "059-parte-3-que-google-te-encuentre",
+      "red": "instagram",
+      "fecha": "2026-11-27T08:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+    },
+    {
+      "slug": "064-instagram-no-es-tuyo",
+      "red": "instagram",
+      "fecha": "2026-11-27T09:35",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
     }
   ]
 }
