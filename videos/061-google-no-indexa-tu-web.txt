@@ -2,4 +2,4 @@ Si Google no indexa tu web, casi siempre es por un noindex olvidado, falta de si
 
 ¿Revisaste la tuya en Search Console?
 
-#seo #searchconsole #indexacion #google
+#seo #indexacion #searchconsole #seotecnico #googlesearch #posicionamientoweb #sitemap

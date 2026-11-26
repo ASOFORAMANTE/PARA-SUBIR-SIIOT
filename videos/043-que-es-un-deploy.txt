@@ -2,4 +2,4 @@ Deploy es publicar: llevar tu código al servidor para que cualquiera lo vea con
 
 ¿Publicas a mano o automático?
 
-#deploy #desarrolloweb #hosting #programacion
+#deploy #hosting #desarrolloweb #github #devops #programacion #website

@@ -2,4 +2,4 @@ Gris clarito sobre blanco se ve elegante y nadie lo lee. Contraste mínimo 4,5 a
 
 ¿Tu web pasa la prueba del sol?
 
-#accesibilidad #diseñoweb #uxui #website
+#accesibilidadweb #contraste #uxui #diseñoweb #wcag #legibilidad #webdesign
