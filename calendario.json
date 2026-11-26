@@ -395,11 +395,11 @@
       "slug": "042-que-es-un-commit",
       "red": "instagram",
       "fecha": "2026-11-26T20:35",
-      "estado": "programado",
+      "estado": "publicado",
       "media_id": null,
       "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+      "publicado_en": "2026-11-26",
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Subido a mano por Renato el 26-11 (aviso en el chat). NO volver a publicar."
     },
     {
       "slug": "052-deja-respirar-tu-web",
@@ -550,6 +550,16 @@
       "link": null,
       "publicado_en": "2026-11-26",
       "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar en TikTok. En Instagram sigue programado aparte."
+    },
+    {
+      "slug": "042-que-es-un-commit",
+      "red": "tiktok",
+      "fecha": "2026-11-26",
+      "estado": "publicado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": "2026-11-26",
+      "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar."
     }
   ]
 }
