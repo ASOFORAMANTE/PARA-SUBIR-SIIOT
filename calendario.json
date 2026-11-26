@@ -285,11 +285,11 @@
       "slug": "045-nadie-sabe-que-existes",
       "red": "instagram",
       "fecha": "2026-11-26T09:35",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+      "estado": "publicado",
+      "media_id": "18092421713278557",
+      "link": "https://www.instagram.com/reel/DgNG_9PN_yR/",
+      "publicado_en": "2026-11-26T09:31",
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Publicado 09:31 (la llamada se cortó por tiempo; confirmado por la API)."
     },
     {
       "slug": "040-que-es-github",
