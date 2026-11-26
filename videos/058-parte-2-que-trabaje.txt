@@ -1,0 +1,5 @@
+Parte 2: que la web te avise de cada contacto y guarde cada reserva en una base de datos.
+
+¿Quieres la parte 3?
+
+#claudecode #basededatos #creacionconia #aplicaciones
