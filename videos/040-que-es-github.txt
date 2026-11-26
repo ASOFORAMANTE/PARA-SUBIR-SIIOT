@@ -1,0 +1,5 @@
+GitHub, explicado simple: el lugar donde vive el código de tu web, con cada versión guardada.
+
+¿Tu web tiene respaldo o vive solo en un computador?
+
+#github #desarrolloweb #programacion #website
