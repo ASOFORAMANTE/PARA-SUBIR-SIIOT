@@ -640,6 +640,16 @@
       "link": null,
       "publicado_en": "2026-11-28",
       "nota": "Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar."
+    },
+    {
+      "slug": "079-cambios-sin-romper-la-web",
+      "red": "tiktok",
+      "fecha": "2026-11-28T11:30",
+      "estado": "programado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": null,
+      "nota": "Matrix oscuro puro. Renato lo sube a mano a TikTok a las 11:30 (recordatorio en la sesión). NO publicar por API."
     }
   ]
 }

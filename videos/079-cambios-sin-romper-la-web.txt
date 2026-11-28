@@ -1,0 +1,9 @@
+¿Le pides cambios a Claude y te rompe lo que ya funcionaba? Así lo evito yo:
+
+1. Un cambio por mensaje: le pido el plan antes y espero mi visto bueno.
+2. Un commit antes de cada cambio: si algo falla, vuelvo a la versión anterior en segundos.
+3. La pruebo como cliente: formulario, botón, WhatsApp y celular.
+
+¿Cuál te ha fallado a ti? Comenta el número.
+
+#claudecode #desarrolloweb #github #ia #creacionconia #paginaweb
