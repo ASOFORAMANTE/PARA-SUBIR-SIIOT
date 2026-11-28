@@ -415,11 +415,11 @@
       "slug": "057-antes-de-abrir-claude",
       "red": "instagram",
       "fecha": "2026-11-29T12:51",
-      "estado": "programado",
+      "estado": "publicado",
       "media_id": null,
       "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+      "publicado_en": "2026-11-28",
+      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas. | Subido a mano por Renato el 28-11 (aviso en el chat). NO volver a publicar."
     },
     {
       "slug": "062-cada-segundo-te-cuesta",
@@ -600,6 +600,16 @@
       "link": null,
       "publicado_en": "2026-11-28",
       "nota": "Corto (candado SSL). Subido a mano por Renato (aviso en el chat). NO volver a publicar."
+    },
+    {
+      "slug": "057-antes-de-abrir-claude",
+      "red": "tiktok",
+      "fecha": "2026-11-28",
+      "estado": "publicado",
+      "media_id": null,
+      "link": null,
+      "publicado_en": "2026-11-28",
+      "nota": "Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar."
     }
   ]
 }
