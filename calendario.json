@@ -1,615 +1,625 @@
 {
-  "zona_horaria": "America/Santiago",
-  "cuenta": "@siiot_cl",
-  "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato. Instagram tarda 1-2 min en procesar un Reel: si la llamada se corta por tiempo, confirmar en la app antes de reintentar.",
-  "publicaciones": [
+ "zona_horaria": "America/Santiago",
+ "cuenta": "@siiot_cl",
+ "nota": "Registro de publicaciones. estado: listo | programado | publicado | error. Solo se programa con el 'sí' de Renato. Instagram tarda 1-2 min en procesar un Reel: si la llamada se corta por tiempo, confirmar en la app antes de reintentar.",
+ "publicaciones": [
+  {
+   "slug": "003-no-apareces-en-el-mapa",
+   "red": "instagram",
+   "fecha": "2026-11-23T05:25",
+   "estado": "publicado",
+   "media_id": "17934844947164002",
+   "link": "https://www.instagram.com/reel/DgE8ol_kXYX/",
+   "publicado_en": "2026-11-23T05:26",
+   "nota": "Publicado como prueba antes de la hora programada (8:00); confirmado por Renato en la app. media_id no se obtuvo (la llamada se cortó por tiempo). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "010-web-implantologo",
+   "red": "instagram",
+   "fecha": "2026-11-23T09:15",
+   "estado": "publicado",
+   "media_id": "17956713573302426",
+   "link": "https://www.instagram.com/reel/DgFW_g5jQNi/",
+   "publicado_en": "2026-11-23T09:17",
+   "nota": "Publicado 09:17, confirmado por Renato en la app. Dr. Figueroa de acuerdo (confirmado por Renato). Render desde rama claude/intelligent-johnson-d63dwx (bd8b139). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "002-que-se-entienda",
+   "red": "instagram",
+   "fecha": "2026-11-23T12:00",
+   "estado": "publicado",
+   "media_id": "18190221115414809",
+   "link": "https://www.instagram.com/reel/DgFqHO3gLbL/",
+   "publicado_en": "2026-11-23T12:04",
+   "nota": " | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "006-menu-eterno",
+   "red": "instagram",
+   "fecha": "2026-11-23T17:00",
+   "estado": "publicado",
+   "media_id": "17915516304568792",
+   "link": "https://www.instagram.com/reel/DgHk2V4FRS1/",
+   "publicado_en": "2026-11-24T05:56",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. Ojo: la versión antigua del 006 se envió a Instagram el 23-11 17:01; confirmar antes de publicar esta. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 05:55: la versión estudio v2 se publicó con media_id 17915516304568792 (el recordatorio de las 17:00 del 23-11 se ejecutó tarde tras un reinicio). Probable DUPLICADO: la versión antigua se habría enviado el 23-11 17:01 (media_id desconocido). Renato debe revisar la app y decidir cuál borrar. | 24-11 08:56: Renato revisa el posible duplicado en la app y borra la versión antigua si aparece. | 24-11 15:05 (revisión de todo Instagram vía Windsor): la versión antigua del 23-11 17:01 NO aparece en Instagram: no hay duplicado."
+  },
+  {
+   "slug": "005-tres-portadas",
+   "red": "instagram",
+   "fecha": "2026-11-24T07:00",
+   "estado": "publicado",
+   "media_id": "18105018605376999",
+   "link": "https://www.instagram.com/reel/DgH1dRiHO00/",
+   "publicado_en": "2026-11-24T08:21",
+   "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "004-pide-menos-datos",
+   "red": "instagram",
+   "fecha": "2026-11-24T08:30",
+   "estado": "publicado",
+   "media_id": "18652547233053412",
+   "link": "https://www.instagram.com/reel/DgIi4U7DV38/",
+   "publicado_en": "2026-11-24T14:58",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "007-revisala-en-el-celular",
+   "red": "instagram",
+   "fecha": "2026-11-24T11:00",
+   "estado": "publicado",
+   "media_id": "18017996474968980",
+   "link": "https://www.instagram.com/reel/DgIRkYQFXKC/",
+   "publicado_en": "2026-11-24T12:27",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | La llamada a Windsor se cortó por tiempo, pero Instagram lo publicó (confirmado por la API). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "008-se-nota-la-ia",
+   "red": "instagram",
+   "fecha": "2026-11-24T20:00",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: Renato lo movió al 26-11 20:00 para no juntar tres videos de IA (016, 018, 008) en 24 h. Recordatorio trig_01FcePDoBPCKGCnHmcShcNvx. | 24-11: Renato lo adelantó a hoy 20:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram."
+  },
+  {
+   "slug": "011-que-pasa-al-reservar",
+   "red": "instagram",
+   "fecha": "2026-11-24T06:00",
+   "estado": "publicado",
+   "media_id": "18351284779255842",
+   "link": "https://www.instagram.com/reel/DgHldkniKIg/",
+   "publicado_en": "2026-11-24T06:01",
+   "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "012-tu-dominio-es-tuyo",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno. | 24-11 tarde: reemplazado por versión estilo superhéroes, aprobada por Renato (\"súper buenos, déjalos en la carpeta para subir\"). Sin fecha."
+  },
+  {
+   "slug": "009-que-necesita-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-23T20:58",
+   "estado": "publicado",
+   "media_id": "18137872546747016",
+   "link": "https://www.instagram.com/reel/DgGnRKlCj7c/",
+   "publicado_en": "2026-11-23T20:58",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "013-base-de-datos",
+   "red": "instagram",
+   "fecha": "2026-11-24T16:00",
+   "estado": "publicado",
+   "media_id": "17892287805479569",
+   "link": "https://www.instagram.com/reel/DgIrf0cDvVk/",
+   "publicado_en": "2026-11-24T16:01",
+   "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 08:56: hora fijada por Renato, 26-11 12:00. Recordatorio trig_01S9c5Cb9zBuf5J6DmSKuTTq. | 24-11: Renato lo adelantó a hoy 16:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram. | 24-11 18:05: confirmado en Instagram vía Windsor (media_id), NO volver a publicar."
+  },
+  {
+   "slug": "014-la-gente-le-compra-a-gente",
+   "red": "instagram",
+   "fecha": "2026-11-23T14:03",
+   "estado": "publicado",
+   "media_id": "17922078477456192",
+   "link": "https://www.instagram.com/reel/DgF3wLaE0Dz/",
+   "publicado_en": "2026-11-23T14:03",
+   "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "016-hecha-con-ia-sin-seo",
+   "red": "instagram",
+   "fecha": "2026-11-24T03:50",
+   "estado": "publicado",
+   "media_id": "18060249704596520",
+   "link": "https://www.instagram.com/reel/DgHWc7ZCIBN/",
+   "publicado_en": "2026-11-24T03:50",
+   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "017-cuanto-has-gastado",
+   "red": "instagram",
+   "fecha": "2026-11-24T13:00",
+   "estado": "publicado",
+   "media_id": "17988708794935839",
+   "link": "https://www.instagram.com/reel/DgIe6xkCBl_/",
+   "publicado_en": "2026-11-24T14:23",
+   "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
+  },
+  {
+   "slug": "019-escribe-como-busca",
+   "red": "instagram",
+   "fecha": "2026-11-24T15:00",
+   "estado": "publicado",
+   "media_id": "18027072194932546",
+   "link": "https://www.instagram.com/reel/DgIffGWFNJb/",
+   "publicado_en": "2026-11-24T14:28",
+   "nota": "Estilo cómic (prueba). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): DUPLICADO: salió 2 veces (14:28 media 18027072194932546 y 15:01 media 18000177462045834, reel DgIjOZcmWYK). Se conserva el de 14:28; Renato borra el de 15:01 en la app. NO VOLVER A PUBLICAR: el recordatorio trig_011JRvwJ6xDqQXzVkfJRU5ug (16:00) debe saltarse.",
+   "duplicados": [
     {
-      "slug": "003-no-apareces-en-el-mapa",
-      "red": "instagram",
-      "fecha": "2026-11-23T05:25",
-      "estado": "publicado",
-      "media_id": "17934844947164002",
-      "link": "https://www.instagram.com/reel/DgE8ol_kXYX/",
-      "publicado_en": "2026-11-23T05:26",
-      "nota": "Publicado como prueba antes de la hora programada (8:00); confirmado por Renato en la app. media_id no se obtuvo (la llamada se cortó por tiempo). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "010-web-implantologo",
-      "red": "instagram",
-      "fecha": "2026-11-23T09:15",
-      "estado": "publicado",
-      "media_id": "17956713573302426",
-      "link": "https://www.instagram.com/reel/DgFW_g5jQNi/",
-      "publicado_en": "2026-11-23T09:17",
-      "nota": "Publicado 09:17, confirmado por Renato en la app. Dr. Figueroa de acuerdo (confirmado por Renato). Render desde rama claude/intelligent-johnson-d63dwx (bd8b139). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "002-que-se-entienda",
-      "red": "instagram",
-      "fecha": "2026-11-23T12:00",
-      "estado": "publicado",
-      "media_id": "18190221115414809",
-      "link": "https://www.instagram.com/reel/DgFqHO3gLbL/",
-      "publicado_en": "2026-11-23T12:04",
-      "nota": " | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "006-menu-eterno",
-      "red": "instagram",
-      "fecha": "2026-11-23T17:00",
-      "estado": "publicado",
-      "media_id": "17915516304568792",
-      "link": "https://www.instagram.com/reel/DgHk2V4FRS1/",
-      "publicado_en": "2026-11-24T05:56",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. Ojo: la versión antigua del 006 se envió a Instagram el 23-11 17:01; confirmar antes de publicar esta. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 05:55: la versión estudio v2 se publicó con media_id 17915516304568792 (el recordatorio de las 17:00 del 23-11 se ejecutó tarde tras un reinicio). Probable DUPLICADO: la versión antigua se habría enviado el 23-11 17:01 (media_id desconocido). Renato debe revisar la app y decidir cuál borrar. | 24-11 08:56: Renato revisa el posible duplicado en la app y borra la versión antigua si aparece. | 24-11 15:05 (revisión de todo Instagram vía Windsor): la versión antigua del 23-11 17:01 NO aparece en Instagram: no hay duplicado."
-    },
-    {
-      "slug": "005-tres-portadas",
-      "red": "instagram",
-      "fecha": "2026-11-24T07:00",
-      "estado": "publicado",
-      "media_id": "18105018605376999",
-      "link": "https://www.instagram.com/reel/DgH1dRiHO00/",
-      "publicado_en": "2026-11-24T08:21",
-      "nota": "Versión estudio v2 (24-11 madrugada), reemplaza a la latinoamericana; Renato pidió convertir todos los pendientes al estilo del último video. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "004-pide-menos-datos",
-      "red": "instagram",
-      "fecha": "2026-11-24T08:30",
-      "estado": "publicado",
-      "media_id": "18652547233053412",
-      "link": "https://www.instagram.com/reel/DgIi4U7DV38/",
-      "publicado_en": "2026-11-24T14:58",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "007-revisala-en-el-celular",
-      "red": "instagram",
-      "fecha": "2026-11-24T11:00",
-      "estado": "publicado",
-      "media_id": "18017996474968980",
-      "link": "https://www.instagram.com/reel/DgIRkYQFXKC/",
-      "publicado_en": "2026-11-24T12:27",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | La llamada a Windsor se cortó por tiempo, pero Instagram lo publicó (confirmado por la API). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "008-se-nota-la-ia",
-      "red": "instagram",
-      "fecha": "2026-11-24T20:00",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: Renato lo movió al 26-11 20:00 para no juntar tres videos de IA (016, 018, 008) en 24 h. Recordatorio trig_01FcePDoBPCKGCnHmcShcNvx. | 24-11: Renato lo adelantó a hoy 20:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram."
-    },
-    {
-      "slug": "011-que-pasa-al-reservar",
-      "red": "instagram",
-      "fecha": "2026-11-24T06:00",
-      "estado": "publicado",
-      "media_id": "18351284779255842",
-      "link": "https://www.instagram.com/reel/DgHldkniKIg/",
-      "publicado_en": "2026-11-24T06:01",
-      "nota": "Versión nueva estilo estudio v2 (máscara, cámara que sigue, transición por objeto, quiebres, música más alta). Renato pidió subir uno a las 6:00 el 24-11. | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "012-tu-dominio-es-tuyo",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Sacado del turno de hoy 19:00 (lo ocupa 009). Versión Concepción en 3D no se pudo renderizar; queda la versión antigua aprobada. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 08:56: EN PAUSA. Renato quiere revisar el MP4 antes de publicar; recordatorio de las 17:00 desactivado. Se reprograma solo con su visto bueno. | 24-11 tarde: reemplazado por versión estilo superhéroes, aprobada por Renato (\"súper buenos, déjalos en la carpeta para subir\"). Sin fecha."
-    },
-    {
-      "slug": "009-que-necesita-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-23T20:58",
-      "estado": "publicado",
-      "media_id": "18137872546747016",
-      "link": "https://www.instagram.com/reel/DgGnRKlCj7c/",
-      "publicado_en": "2026-11-23T20:58",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "013-base-de-datos",
-      "red": "instagram",
-      "fecha": "2026-11-24T16:00",
-      "estado": "publicado",
-      "media_id": "17892287805479569",
-      "link": "https://www.instagram.com/reel/DgIrf0cDvVk/",
-      "publicado_en": "2026-11-24T16:01",
-      "nota": "Versión latinoamericana (voz Santiago, música y efectos), aprobada por Renato el 23-11. | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | 24-11 08:56: hora fijada por Renato, 26-11 12:00. Recordatorio trig_01S9c5Cb9zBuf5J6DmSKuTTq. | 24-11: Renato lo adelantó a hoy 16:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram. | 24-11 18:05: confirmado en Instagram vía Windsor (media_id), NO volver a publicar."
-    },
-    {
-      "slug": "014-la-gente-le-compra-a-gente",
-      "red": "instagram",
-      "fecha": "2026-11-23T14:03",
-      "estado": "publicado",
-      "media_id": "17922078477456192",
-      "link": "https://www.instagram.com/reel/DgF3wLaE0Dz/",
-      "publicado_en": "2026-11-23T14:03",
-      "nota": "Estilo cine (3D, fuego, destrucción). Estaba programado a las 16:00; Renato pidió subirlo ya. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "016-hecha-con-ia-sin-seo",
-      "red": "instagram",
-      "fecha": "2026-11-24T03:50",
-      "estado": "publicado",
-      "media_id": "18060249704596520",
-      "link": "https://www.instagram.com/reel/DgHWc7ZCIBN/",
-      "publicado_en": "2026-11-24T03:50",
-      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11: publicar ahora. | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "017-cuanto-has-gastado",
-      "red": "instagram",
-      "fecha": "2026-11-24T13:00",
-      "estado": "publicado",
-      "media_id": "17988708794935839",
-      "link": "https://www.instagram.com/reel/DgIe6xkCBl_/",
-      "publicado_en": "2026-11-24T14:23",
-      "nota": "Estilo estudio (3D mate). Aprobado por Renato el 24-11 para el 25-11 a las 9:00. Recordatorio programado en la sesión (trig_019VRQLVUbqKzcu22ivPdNfb). | 24-11: archivo reemplazado por la versión estudio v2 (pedido de Renato: todos los pendientes al estilo del último video). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): confirmado en Instagram, NO volver a publicar."
-    },
-    {
-      "slug": "019-escribe-como-busca",
-      "red": "instagram",
-      "fecha": "2026-11-24T15:00",
-      "estado": "publicado",
-      "media_id": "18027072194932546",
-      "link": "https://www.instagram.com/reel/DgIffGWFNJb/",
-      "publicado_en": "2026-11-24T14:28",
-      "nota": "Estilo cómic (prueba). | Horario fijado por Renato el 24-11 05:54 (autorizó todos de una vez). | 24-11 15:05 (revisión de todo Instagram vía Windsor): DUPLICADO: salió 2 veces (14:28 media 18027072194932546 y 15:01 media 18000177462045834, reel DgIjOZcmWYK). Se conserva el de 14:28; Renato borra el de 15:01 en la app. NO VOLVER A PUBLICAR: el recordatorio trig_011JRvwJ6xDqQXzVkfJRU5ug (16:00) debe saltarse.",
-      "duplicados": [
-        {
-          "media_id": "18000177462045834",
-          "link": "https://www.instagram.com/reel/DgIjOZcmWYK/",
-          "publicado_en": "2026-11-24T15:01",
-          "accion": "borrar en la app"
-        }
-      ]
-    },
-    {
-      "slug": "015-pagina-2-de-google",
-      "red": "instagram",
-      "fecha": "2026-11-24T17:00",
-      "estado": "publicado",
-      "media_id": "18116749514125120",
-      "link": "https://www.instagram.com/reel/DgI3akxkzwX/",
-      "publicado_en": null,
-      "nota": "Aprobado por Renato el 24-11 para subir después; falta que dé la hora. | 24-11 08:56: hora fijada por Renato, 26-11 17:00. Recordatorio trig_01LdNMLSUytZLRTER6P66wsE. | 24-11: Renato lo adelantó a hoy 17:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram. | 24-11 18:05: confirmado en Instagram vía Windsor (media_id), NO volver a publicar."
-    },
-    {
-      "slug": "018-la-ia-no-es-el-villano",
-      "red": "instagram",
-      "fecha": "2026-11-24T08:50",
-      "estado": "publicado",
-      "media_id": "17961341466268096",
-      "link": "https://www.instagram.com/reel/DgIRlxPAC3i/",
-      "publicado_en": "2026-11-24T12:27",
-      "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50. | La llamada a Windsor se cortó por tiempo (60 s); sin reintento. Confirmado con get_data: un solo post. | 24-11 15:05 (revisión de todo Instagram vía Windsor): Instagram lo muestra a las 12:27 (no 08:52): la llamada cortada se procesó tarde. Un solo post."
-    },
-    {
-      "slug": "020-la-web-invisible",
-      "red": "instagram",
-      "fecha": "2026-11-24T18:01",
-      "estado": "publicado",
-      "media_id": "18121700971954117",
-      "link": "https://www.instagram.com/reel/DgI31JMCfvQ/",
-      "publicado_en": "2026-11-24T18:01",
-      "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Hora corrida de 15:30 a 18:01 por un reinicio de la sesión."
-    },
-    {
-      "slug": "021-el-plano-de-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-24T18:11",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Corrido a 18:11 (10 min después del 020)."
-    },
-    {
-      "slug": "022-cartel-de-no-pasar",
-      "red": "instagram",
-      "fecha": "2026-11-24T18:21",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Corrido a 18:21 (20 min después del 020)."
-    },
-    {
-      "slug": "023-search-que",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
-    },
-    {
-      "slug": "024-asi-te-ve-google",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
-    },
-    {
-      "slug": "004-pide-menos-datos-heroe",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión estilo superhéroes del 004 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 004 publicado, dejar unos días de distancia."
-    },
-    {
-      "slug": "017-cuanto-has-gastado-heroe",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Versión estilo superhéroes del 017 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 017 publicado, dejar unos días de distancia."
-    },
-    {
-      "slug": "029-tres-pasos-para-tu-web",
-      "red": "instagram",
-      "fecha": null,
-      "estado": "listo",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Estilo matrix (motor nuevo). Aprobado por Renato el 25-11 (\"buenísimo\"). Sin hora todavía. Ojo: tema cercano al 009 publicado (dominio, servidor, código)."
-    },
-    {
-      "slug": "030-asi-hago-una-web",
-      "red": "instagram",
-      "fecha": "2026-11-25T08:00",
-      "estado": "publicado",
-      "media_id": "17931931860428404",
-      "link": null,
-      "publicado_en": "2026-11-25T09:17",
-      "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía. | Programado por Renato el 25-11 00:52 para las 08:00 (recordatorio trig_01Nyh8DxvCdrs5hpvQMiBjhf). | Publicado 09:17 (la llamada se cortó por tiempo; confirmado por la API)."
-    },
-    {
-      "slug": "045-nadie-sabe-que-existes",
-      "red": "instagram",
-      "fecha": "2026-11-26T09:35",
-      "estado": "publicado",
-      "media_id": "18092421713278557",
-      "link": "https://www.instagram.com/reel/DgNG_9PN_yR/",
-      "publicado_en": "2026-11-26T09:31",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Publicado 09:31 (la llamada se cortó por tiempo; confirmado por la API)."
-    },
-    {
-      "slug": "040-que-es-github",
-      "red": "instagram",
-      "fecha": "2026-11-26T10:35",
-      "estado": "publicado",
-      "media_id": "18025625642944506",
-      "link": null,
-      "publicado_en": "2026-11-26T11:16",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
-    },
-    {
-      "slug": "050-paleta-de-colores",
-      "red": "instagram",
-      "fecha": "2026-11-26T11:35",
-      "estado": "publicado",
-      "media_id": "18201615997389829",
-      "link": null,
-      "publicado_en": "2026-11-26T11:39",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
-    },
-    {
-      "slug": "055-la-guia-correcta",
-      "red": "instagram",
-      "fecha": "2026-11-26T12:35",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26T12:41",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | La llamada se cortó por tiempo; casi seguro publicado (pasó igual con 045). Confirmar en la app; NO reintentar sin confirmar."
-    },
-    {
-      "slug": "060-que-es-el-seo",
-      "red": "instagram",
-      "fecha": "2026-11-26T13:35",
-      "estado": "publicado",
-      "media_id": "18345245407258045",
-      "link": null,
-      "publicado_en": "2026-11-26T13:54",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
-    },
-    {
-      "slug": "046-alguien-se-lleva-tu-dinero",
-      "red": "instagram",
-      "fecha": "2026-11-26T14:35",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Renato pidió subirlo ya (26-11) con caption nuevo; la llamada se cortó por tiempo, confirmando con la API."
-    },
-    {
-      "slug": "041-que-es-un-repositorio",
-      "red": "instagram",
-      "fecha": "2026-11-26T15:35",
-      "estado": "publicado",
-      "media_id": "18444236407198335",
-      "link": null,
-      "publicado_en": "2026-11-26T16:14",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
-    },
-    {
-      "slug": "051-la-letra-te-delata",
-      "red": "instagram",
-      "fecha": "2026-11-26T16:35",
-      "estado": "publicado",
-      "media_id": "18182066482386313",
-      "link": null,
-      "publicado_en": "2026-11-26T16:56",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
-    },
-    {
-      "slug": "056-tres-errores-con-claude",
-      "red": "instagram",
-      "fecha": "2026-11-27T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "061-google-no-indexa-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-27T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "047-clientes-de-noche",
-      "red": "instagram",
-      "fecha": "2026-11-28T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "042-que-es-un-commit",
-      "red": "instagram",
-      "fecha": "2026-11-26T20:35",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Subido a mano por Renato el 26-11 (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "052-deja-respirar-tu-web",
-      "red": "instagram",
-      "fecha": "2026-11-28T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "057-antes-de-abrir-claude",
-      "red": "instagram",
-      "fecha": "2026-11-29T12:51",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-28",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas. | Subido a mano por Renato el 28-11 (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "062-cada-segundo-te-cuesta",
-      "red": "instagram",
-      "fecha": "2026-11-26T23:35",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26",
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Subido a mano por Renato el 26-11 (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "048-pierdes-tus-resenas",
-      "red": "instagram",
-      "fecha": "2026-11-29T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "043-que-es-un-deploy",
-      "red": "instagram",
-      "fecha": "2026-11-30T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "053-un-boton-principal",
-      "red": "instagram",
-      "fecha": "2026-11-30T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "058-parte-2-que-trabaje",
-      "red": "instagram",
-      "fecha": "2026-12-01T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "063-una-pagina-por-servicio",
-      "red": "instagram",
-      "fecha": "2026-12-01T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "049-seguidores-no-son-clientes",
-      "red": "instagram",
-      "fecha": "2026-12-02T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "044-hostinger-o-wordpress",
-      "red": "instagram",
-      "fecha": "2026-12-02T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "054-tu-texto-no-se-lee",
-      "red": "instagram",
-      "fecha": "2026-12-03T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "059-parte-3-que-google-te-encuentre",
-      "red": "instagram",
-      "fecha": "2026-12-03T19:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "064-instagram-no-es-tuyo",
-      "red": "instagram",
-      "fecha": "2026-12-04T12:51",
-      "estado": "programado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": null,
-      "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
-    },
-    {
-      "slug": "040-que-es-github",
-      "red": "tiktok",
-      "fecha": "2026-11-26",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26",
-      "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar en TikTok. En Instagram sigue programado aparte."
-    },
-    {
-      "slug": "046-alguien-se-lleva-tu-dinero",
-      "red": "tiktok",
-      "fecha": "2026-11-26",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26",
-      "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar en TikTok. En Instagram sigue programado aparte."
-    },
-    {
-      "slug": "042-que-es-un-commit",
-      "red": "tiktok",
-      "fecha": "2026-11-26",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-26",
-      "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "065-plantilla-claude-md",
-      "red": "tiktok",
-      "fecha": "2026-11-27",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-27",
-      "nota": "Corto de 16 s. Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar en TikTok. Instagram: no programado todavía."
-    },
-    {
-      "slug": "066-la-prueba-site",
-      "red": "tiktok",
-      "fecha": "2026-11-27",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-27",
-      "nota": "Corto de 15 s. Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar en TikTok."
-    },
-    {
-      "slug": "068-no-seguro",
-      "red": "instagram",
-      "fecha": "2026-11-28",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-28",
-      "nota": "Corto (candado SSL). Subido a mano por Renato (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "068-no-seguro",
-      "red": "tiktok",
-      "fecha": "2026-11-28",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-28",
-      "nota": "Corto (candado SSL). Subido a mano por Renato (aviso en el chat). NO volver a publicar."
-    },
-    {
-      "slug": "057-antes-de-abrir-claude",
-      "red": "tiktok",
-      "fecha": "2026-11-28",
-      "estado": "publicado",
-      "media_id": null,
-      "link": null,
-      "publicado_en": "2026-11-28",
-      "nota": "Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar."
+     "media_id": "18000177462045834",
+     "link": "https://www.instagram.com/reel/DgIjOZcmWYK/",
+     "publicado_en": "2026-11-24T15:01",
+     "accion": "borrar en la app"
     }
-  ]
+   ]
+  },
+  {
+   "slug": "015-pagina-2-de-google",
+   "red": "instagram",
+   "fecha": "2026-11-24T17:00",
+   "estado": "publicado",
+   "media_id": "18116749514125120",
+   "link": "https://www.instagram.com/reel/DgI3akxkzwX/",
+   "publicado_en": null,
+   "nota": "Aprobado por Renato el 24-11 para subir después; falta que dé la hora. | 24-11 08:56: hora fijada por Renato, 26-11 17:00. Recordatorio trig_01LdNMLSUytZLRTER6P66wsE. | 24-11: Renato lo adelantó a hoy 17:00 (recordatorio de la sesión ...KHxNU). Aún NO está en Instagram. | 24-11 18:05: confirmado en Instagram vía Windsor (media_id), NO volver a publicar."
+  },
+  {
+   "slug": "018-la-ia-no-es-el-villano",
+   "red": "instagram",
+   "fecha": "2026-11-24T08:50",
+   "estado": "publicado",
+   "media_id": "17961341466268096",
+   "link": "https://www.instagram.com/reel/DgIRlxPAC3i/",
+   "publicado_en": "2026-11-24T12:27",
+   "nota": "Estilo Marvel/cómic (motor construir-comic.mjs). Aprobado por Renato el 24-11 (~06:05) con hora 08:50. | La llamada a Windsor se cortó por tiempo (60 s); sin reintento. Confirmado con get_data: un solo post. | 24-11 15:05 (revisión de todo Instagram vía Windsor): Instagram lo muestra a las 12:27 (no 08:52): la llamada cortada se procesó tarde. Un solo post."
+  },
+  {
+   "slug": "020-la-web-invisible",
+   "red": "instagram",
+   "fecha": "2026-11-24T18:01",
+   "estado": "publicado",
+   "media_id": "18121700971954117",
+   "link": "https://www.instagram.com/reel/DgI31JMCfvQ/",
+   "publicado_en": "2026-11-24T18:01",
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Hora corrida de 15:30 a 18:01 por un reinicio de la sesión."
+  },
+  {
+   "slug": "021-el-plano-de-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-24T18:11",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Corrido a 18:11 (10 min después del 020)."
+  },
+  {
+   "slug": "022-cartel-de-no-pasar",
+   "red": "instagram",
+   "fecha": "2026-11-24T18:21",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Horario pedido por Renato: uno ahora, otro en 10 min, otro en 20 min. | Corrido a 18:21 (20 min después del 020)."
+  },
+  {
+   "slug": "023-search-que",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
+  },
+  {
+   "slug": "024-asi-te-ve-google",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Serie 'Pagas la web y no apareces en Google', aprobada por Renato el 24-11 ('súper buenos'). Aprobado, sin hora todavía."
+  },
+  {
+   "slug": "004-pide-menos-datos-heroe",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión estilo superhéroes del 004 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 004 publicado, dejar unos días de distancia."
+  },
+  {
+   "slug": "017-cuanto-has-gastado-heroe",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Versión estilo superhéroes del 017 (la versión 3D ya se publicó el 24-11). Aprobada por Renato el 24-11; sin fecha. Ojo: mismo tema que el 017 publicado, dejar unos días de distancia."
+  },
+  {
+   "slug": "029-tres-pasos-para-tu-web",
+   "red": "instagram",
+   "fecha": null,
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Estilo matrix (motor nuevo). Aprobado por Renato el 25-11 (\"buenísimo\"). Sin hora todavía. Ojo: tema cercano al 009 publicado (dominio, servidor, código)."
+  },
+  {
+   "slug": "030-asi-hago-una-web",
+   "red": "instagram",
+   "fecha": "2026-11-25T08:00",
+   "estado": "publicado",
+   "media_id": "17931931860428404",
+   "link": null,
+   "publicado_en": "2026-11-25T09:17",
+   "nota": "Estilo matrix variante real: así hago una web a mil dólares (proceso con Claude Code). Aprobado por Renato el 25-11 (\"está bueno\"). Sin hora todavía. | Programado por Renato el 25-11 00:52 para las 08:00 (recordatorio trig_01Nyh8DxvCdrs5hpvQMiBjhf). | Publicado 09:17 (la llamada se cortó por tiempo; confirmado por la API)."
+  },
+  {
+   "slug": "045-nadie-sabe-que-existes",
+   "red": "instagram",
+   "fecha": "2026-11-26T09:35",
+   "estado": "publicado",
+   "media_id": "18092421713278557",
+   "link": "https://www.instagram.com/reel/DgNG_9PN_yR/",
+   "publicado_en": "2026-11-26T09:31",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Publicado 09:31 (la llamada se cortó por tiempo; confirmado por la API)."
+  },
+  {
+   "slug": "040-que-es-github",
+   "red": "instagram",
+   "fecha": "2026-11-26T10:35",
+   "estado": "publicado",
+   "media_id": "18025625642944506",
+   "link": null,
+   "publicado_en": "2026-11-26T11:16",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+  },
+  {
+   "slug": "050-paleta-de-colores",
+   "red": "instagram",
+   "fecha": "2026-11-26T11:35",
+   "estado": "publicado",
+   "media_id": "18201615997389829",
+   "link": null,
+   "publicado_en": "2026-11-26T11:39",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+  },
+  {
+   "slug": "055-la-guia-correcta",
+   "red": "instagram",
+   "fecha": "2026-11-26T12:35",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26T12:41",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | La llamada se cortó por tiempo; casi seguro publicado (pasó igual con 045). Confirmar en la app; NO reintentar sin confirmar."
+  },
+  {
+   "slug": "060-que-es-el-seo",
+   "red": "instagram",
+   "fecha": "2026-11-26T13:35",
+   "estado": "publicado",
+   "media_id": "18345245407258045",
+   "link": null,
+   "publicado_en": "2026-11-26T13:54",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+  },
+  {
+   "slug": "046-alguien-se-lleva-tu-dinero",
+   "red": "instagram",
+   "fecha": "2026-11-26T14:35",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Renato pidió subirlo ya (26-11) con caption nuevo; la llamada se cortó por tiempo, confirmando con la API."
+  },
+  {
+   "slug": "041-que-es-un-repositorio",
+   "red": "instagram",
+   "fecha": "2026-11-26T15:35",
+   "estado": "publicado",
+   "media_id": "18444236407198335",
+   "link": null,
+   "publicado_en": "2026-11-26T16:14",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+  },
+  {
+   "slug": "051-la-letra-te-delata",
+   "red": "instagram",
+   "fecha": "2026-11-26T16:35",
+   "estado": "publicado",
+   "media_id": "18182066482386313",
+   "link": null,
+   "publicado_en": "2026-11-26T16:56",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples."
+  },
+  {
+   "slug": "056-tres-errores-con-claude",
+   "red": "instagram",
+   "fecha": "2026-11-27T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "061-google-no-indexa-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-27T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "047-clientes-de-noche",
+   "red": "instagram",
+   "fecha": "2026-11-28T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "042-que-es-un-commit",
+   "red": "instagram",
+   "fecha": "2026-11-26T20:35",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Subido a mano por Renato el 26-11 (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "052-deja-respirar-tu-web",
+   "red": "instagram",
+   "fecha": "2026-11-28T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "057-antes-de-abrir-claude",
+   "red": "instagram",
+   "fecha": "2026-11-29T12:51",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-28",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas. | Subido a mano por Renato el 28-11 (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "062-cada-segundo-te-cuesta",
+   "red": "instagram",
+   "fecha": "2026-11-26T23:35",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26",
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Subido a mano por Renato el 26-11 (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "048-pierdes-tus-resenas",
+   "red": "instagram",
+   "fecha": "2026-11-29T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "043-que-es-un-deploy",
+   "red": "instagram",
+   "fecha": "2026-11-30T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "053-un-boton-principal",
+   "red": "instagram",
+   "fecha": "2026-11-30T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "058-parte-2-que-trabaje",
+   "red": "instagram",
+   "fecha": "2026-12-01T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "063-una-pagina-por-servicio",
+   "red": "instagram",
+   "fecha": "2026-12-01T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "049-seguidores-no-son-clientes",
+   "red": "instagram",
+   "fecha": "2026-12-02T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "044-hostinger-o-wordpress",
+   "red": "instagram",
+   "fecha": "2026-12-02T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "054-tu-texto-no-se-lee",
+   "red": "instagram",
+   "fecha": "2026-12-03T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "059-parte-3-que-google-te-encuentre",
+   "red": "instagram",
+   "fecha": "2026-12-03T19:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "064-instagram-no-es-tuyo",
+   "red": "instagram",
+   "fecha": "2026-12-04T12:51",
+   "estado": "programado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Tanda de 25 (26-11). Renato pidió subir uno cada hora con descripciones simples. | Reprogramado el 26-11: 2 por día (12:51 y 19:51), pedido de Renato tras revisar métricas."
+  },
+  {
+   "slug": "040-que-es-github",
+   "red": "tiktok",
+   "fecha": "2026-11-26",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26",
+   "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar en TikTok. En Instagram sigue programado aparte."
+  },
+  {
+   "slug": "046-alguien-se-lleva-tu-dinero",
+   "red": "tiktok",
+   "fecha": "2026-11-26",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26",
+   "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar en TikTok. En Instagram sigue programado aparte."
+  },
+  {
+   "slug": "042-que-es-un-commit",
+   "red": "tiktok",
+   "fecha": "2026-11-26",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-26",
+   "nota": "Subido a mano por Renato a TikTok el 26-11 (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "065-plantilla-claude-md",
+   "red": "tiktok",
+   "fecha": "2026-11-27",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-27",
+   "nota": "Corto de 16 s. Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar en TikTok. Instagram: no programado todavía."
+  },
+  {
+   "slug": "066-la-prueba-site",
+   "red": "tiktok",
+   "fecha": "2026-11-27",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-27",
+   "nota": "Corto de 15 s. Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar en TikTok."
+  },
+  {
+   "slug": "068-no-seguro",
+   "red": "instagram",
+   "fecha": "2026-11-28",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-28",
+   "nota": "Corto (candado SSL). Subido a mano por Renato (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "068-no-seguro",
+   "red": "tiktok",
+   "fecha": "2026-11-28",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-28",
+   "nota": "Corto (candado SSL). Subido a mano por Renato (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "057-antes-de-abrir-claude",
+   "red": "tiktok",
+   "fecha": "2026-11-28",
+   "estado": "publicado",
+   "media_id": null,
+   "link": null,
+   "publicado_en": "2026-11-28",
+   "nota": "Subido a mano por Renato a TikTok (aviso en el chat). NO volver a publicar."
+  },
+  {
+   "slug": "carrusel-001-que-es-una-skill",
+   "red": "instagram",
+   "fecha": "2026-11-28",
+   "estado": "listo",
+   "media_id": null,
+   "link": null,
+   "publicado_en": null,
+   "nota": "Carrusel de 8 láminas (carruseles/001-que-es-una-skill/1-8.jpg). Renato lo sube a mano desde la app con la canción 'Moving to the Sun' de HUGEL (la API no agrega música). NO publicar por API."
+  }
+ ]
 }

@@ -1,0 +1,9 @@
+Una skill es un archivo de texto con instrucciones que Claude lee antes de trabajar: tu proceso, tus reglas, lo que no quieres ver.
+
+Puedes tener cuarenta instaladas. Pero si escribes "hazme una web" y apretas enter, la IA va a ciegas.
+
+La mejor skill es planificar: que pregunte, escriba el plan, tú lo corrijas y recién ahí programe. Corregir un plan cuesta una línea; corregir código, una tarde.
+
+¿Le pides un plan o vas directo a programar? Te leo en los comentarios.
+
+#desarrolloweb #claudecode #inteligenciaartificial #diseñoweb #programacion
