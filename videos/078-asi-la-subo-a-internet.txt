@@ -1,0 +1,11 @@
+Hiciste tu web con Claude… y solo existe en tu computador. Así la subo yo a internet:
+
+1. Le pido a Claude Code que cree el repositorio y la suba a GitHub.
+2. Conecto ese repositorio a Cloudflare Pages: gratis para empezar, y cada cambio que guardo se publica solo.
+3. Apunto mi dominio. Es lo único que pagas.
+
+Después viene lo que no se ve: el candado, Search Console y un respaldo.
+
+¿La tuya ya está en internet o sigue en tu computador? Te leo.
+
+#claudecode #desarrolloweb #github #paginaweb #ia #creacionconia
